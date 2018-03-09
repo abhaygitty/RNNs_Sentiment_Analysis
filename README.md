@@ -1,0 +1,2 @@
+# RNNs_Sentiment_Analysis
+Sentiment_analysis_using_RNNs_Word2Vec
